@@ -1,10 +1,10 @@
 doctrine-entities-generate
-==========================
+===========================
 
 Generate Doctrine Entity from the database.
 
 Install
-==========================
+===========================
 
 $ git clone https://github.com/diegofonseca/doctrine-entities-generate.git<br>
 $ cd doctrine-entities-generate<br>
